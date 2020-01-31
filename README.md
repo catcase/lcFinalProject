@@ -1,8 +1,11 @@
 ## Bit Wars 2D
 2D Space Shooter Computer Game
 
-* **Link to Wireframe:**
-https://docs.google.com/document/d/10hIB-gx_558CgBJsGBLLvTuCPEIZNFwFeobreR_GaCM/edit?usp=sharing
+**Link to Trello for overview**
+* -https://trello.com/b/j0LRT3tr/final-project
+
+**Link to Wireframe:**
+* -https://docs.google.com/document/d/10hIB-gx_558CgBJsGBLLvTuCPEIZNFwFeobreR_GaCM/edit?usp=sharing
 
 * **Commit 1:**
   * -User has full control of player with arrow keys, allowing movement across the screen, with restrictions.
